@@ -13,10 +13,10 @@ Data Modeling:
  **Schema Type:** Star Schema  
  **Fact Table:** FactInternetSales  
  **Dimension Tables:**  
-  - DimCustomer  
-  - DimProduct  
-  - DimDate  
-  - DimGeography
+   DimCustomer  
+   DimProduct  
+   DimDate  
+   DimGeography
  
   Tools & Technologies:
  Power BI Desktop (May 2025)  
